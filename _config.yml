@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Liang Yuguo / HomePage"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Liang Yuguo"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "To seek, not to be feed"
   location         : "Shanghai, China"
-  employer         : "East China University of Science and Technology"
+  employer         : "ECUST, PhD Candidate"  # East China University of Science and Technology
   uri              : # URL
   email            : "ygliang@mail.ecust.edu.cn"
 
