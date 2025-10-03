@@ -16,7 +16,7 @@ excerpt: '
 
     • We outline the challenges and opportunities of XAI for code smell prioritization and SQA in terms of feature engineering, problem definition, and XAI methodologies.
 
-Zijie Huang, Huiqun Yu, Guisheng Fan, Zhiqing Shao, Mingchen Li, **Yuguo Liang**. Aligning XAI explanations with software developers’ expectations: A case study with code smell prioritization. Expert Systems with Applications, 238: 121640. https://doi.org/10.1016/j.eswa.2023.121640 [SCI Q1].
+[//]: # (Zijie Huang, Huiqun Yu, Guisheng Fan, Zhiqing Shao, Mingchen Li, **Yuguo Liang**. Aligning XAI explanations with software developers’ expectations: A case study with code smell prioritization. Expert Systems with Applications, 238: 121640. https://doi.org/10.1016/j.eswa.2023.121640 [SCI Q1].)
 
 '
 date: 2024-03-15
