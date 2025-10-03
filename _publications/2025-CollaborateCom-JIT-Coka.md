@@ -12,11 +12,12 @@ excerpt: '
     • We conduct a comprehensive ablation study to validate the effectiveness of each component of JIT-Coka. Moreover, the implementation and trained models are made publicly available to facilitate future research.
 
 '
-date: 2025
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: 2025-08-31
+venue: '21th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing'
+paperurl: 'http://hugo-liang.github.io/files/2025-CollaborateCom-JIT-Coka.pdf'
+[//]: # (bibtexurl: 'http://hugo-liang.github.io/files/2025-CS-SCA_Tools.bib')
+citation: '<strong>Yuguo Liang</strong>, Chengcheng Wu, Wentao Chen, Guisheng Fan, Huiqun Yu. 2025. JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change"
+collection: publications. Collaborative Computing: Networking, Applications and Worksharing. CollaborateCom 2025. [CCF-C]
 ---
 
-JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change
 Just-in-Time Defect Prediction and Localization (JIT-DP and DL) play a crucial role in software quality assurance by identifying defective code changes and locating faulty lines at the time of code submission. While existing methods leverage either handcrafted expert features or semantic features extracted by deep learning models, few explicitly distinguish or effectively fuse these two types of information. In this paper, we propose JIT-Coka, an improved framework for JIT-DP and DL tasks that combines an encoder-decoder based pre-trained model of code (CodeT5) with KANLinear, which is a spline-based adaptive nonlinear classifier used to model fine-grained nonlinear relationships between semantic and expert features. We conduct comprehensive experiments on the high-quality JIT-Defects4J dataset, evaluating JIT-Coka and representative baselines using multiple metrics. Results show that JIT-Coka significantly outperforms state-of-the-art models in defect prediction, improving F1 and MCC by 6.8% and 8.5% respectively compared to JIT-Smart, while maintaining competitive performance in DL.
