@@ -15,6 +15,9 @@ excerpt: '
     • We conclude that if the gap is narrowed, inspecting the top 3 to 5 important features is sufficient to meet the developers’ expectations in explaining issues with simpler causes such as Spaghetti Code, but the explanation may be less helpful for novice users in issues with complex or controversial causes such as Shotgun Surgery.<br>
 
     • We outline the challenges and opportunities of XAI for code smell prioritization and SQA in terms of feature engineering, problem definition, and XAI methodologies.
+
+Zijie Huang, Huiqun Yu, Guisheng Fan, Zhiqing Shao, Mingchen Li, **Yuguo Liang**. Aligning XAI explanations with software developers’ expectations: A case study with code smell prioritization. Expert Systems with Applications, 238: 121640. https://doi.org/10.1016/j.eswa.2023.121640 [SCI Q1].
+
 '
 date: 2024-03-15
 venue: 'Expert Systems with Applications'
