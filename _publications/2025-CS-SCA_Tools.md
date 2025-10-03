@@ -17,8 +17,8 @@ date: 2025
 venue: 'Computers & Security'
 
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides3.pdf')
-[//]: # (paperurl: 'http://academicpages.github.io/files/paper3.pdf')
-citation: 'Congyan Shu, Wentao Chen, Zijie Huang, Guisheng Fan, Huiqun Yu, Hengrun Zhang, <strong>Yuguo Liang</strong>. Tool or Toy: Are SCA Tools Ready for Challenging Scenarios? Computers & Security, 2025. (CCF-B)
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Congyan Shu, Wentao Chen, Zijie Huang, Guisheng Fan, Huiqun Yu, Hengrun Zhang, <strong>Yuguo Liang</strong>. Tool or Toy: Are SCA Tools Ready for Challenging Scenarios? Computers & Security, 2025. [CCF-B]
 '
 ---
  
