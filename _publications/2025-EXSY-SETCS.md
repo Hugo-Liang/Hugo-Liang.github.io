@@ -11,9 +11,7 @@ excerpt: '
 
     • We present a framework Semantic Enhanced Transformer for Code Summarization (SETCS) to better leverage the semantic information introduced by above methods. A robust baseline is designed by fusing embeddings of original and newly generated subtoken sequences, allowing for effective capture of critical information.<br>
 
-    • To the best of our knowledge, this is the first work that incorporates code abbreviation expansion and subword segmentation into the automatic code summarization task. These methods are model-agnostic and can be easily integrated into existing automatic code summarization approaches. Experiments conducted on two widely evaluated datasets demonstrate the effectiveness of our proposed methods.<br>
-
-**Yuguo Liang**, Guisheng Fan, Huiqun Yu, Mingchen Li, and Zijie Huang. 2025. Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation. Expert Systems, 42: e13835. https://doi.org/10.1111/exsy.13835 [CCF-C].
+    • To the best of our knowledge, this is the first work that incorporates code abbreviation expansion and subword segmentation into the automatic code summarization task. These methods are model-agnostic and can be easily integrated into existing automatic code summarization approaches. Experiments conducted on two widely evaluated datasets demonstrate the effectiveness of our proposed methods.
 
 '
 date: 2025-01-08
@@ -21,7 +19,7 @@ venue: 'Expert Systems'
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides2.pdf')
 paperurl: 'http://hugo-liang.github.io/files/2025-EXSY-SETCS.pdf'
 bibtexurl: 'http://hugo-liang.github.io/files/2025-EXSY-SETCS.bib'
-citation: '<strong>Yuguo Liang</strong>, Guisheng Fan, Huiqun Yu, Mingchen Li, and Zijie Huang. 2025. Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation. Expert Systems, 42: e13835. https://doi.org/10.1111/exsy.13835.
+citation: '<strong>Yuguo Liang</strong>, Guisheng Fan, Huiqun Yu, Mingchen Li, and Zijie Huang. 2025. Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation. Expert Systems, 42: e13835. https://doi.org/10.1111/exsy.13835. [CCF-C]
 '
 ---
 
