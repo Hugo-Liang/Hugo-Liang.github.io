@@ -4,19 +4,21 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-EXSY-CodeSummarization
 excerpt: '
-• We propose the use of code abbreviation expansion to weaken the negative impact of abbreviations on program understanding and strengthen the language alignment ability of code summarization models. A series of context-based heuristic algorithms are adopted to expand abbreviations nested in code snippets of Java code summarization datasets.<br>
 
-• We introduce the unigram subword segmentation algorithm to expose more semantic information and further enhance the program understanding performance of code summarization models. Code-specific tokenizers are developed to tokenize code-summary pairs into more granular and semantically preserved subword sequences.<br>
+    • We propose the use of code abbreviation expansion to weaken the negative impact of abbreviations on program understanding and strengthen the language alignment ability of code summarization models. A series of context-based heuristic algorithms are adopted to expand abbreviations nested in code snippets of Java code summarization datasets.<br>
 
-• We present a framework Semantic Enhanced Transformer for Code Summarization (SETCS) to better leverage the semantic information introduced by above methods. A robust baseline is designed by fusing embeddings of original and newly generated subtoken sequences, allowing for effective capture of critical information.<br>
+    • We introduce the unigram subword segmentation algorithm to expose more semantic information and further enhance the program understanding performance of code summarization models. Code-specific tokenizers are developed to tokenize code-summary pairs into more granular and semantically preserved subword sequences.<br>
 
-• To the best of our knowledge, this is the first work that incorporates code abbreviation expansion and subword segmentation into the automatic code summarization task. These methods are model-agnostic and can be easily integrated into existing automatic code summarization approaches. Experiments conducted on two widely evaluated datasets demonstrate the effectiveness of our proposed methods.'
+    • We present a framework Semantic Enhanced Transformer for Code Summarization (SETCS) to better leverage the semantic information introduced by above methods. A robust baseline is designed by fusing embeddings of original and newly generated subtoken sequences, allowing for effective capture of critical information.<br>
+
+    • To the best of our knowledge, this is the first work that incorporates code abbreviation expansion and subword segmentation into the automatic code summarization task. These methods are model-agnostic and can be easily integrated into existing automatic code summarization approaches. Experiments conducted on two widely evaluated datasets demonstrate the effectiveness of our proposed methods.
+'
 date: 2025-01-08
 venue: 'Expert Systems'
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides2.pdf')
 paperurl: 'http://hugo-liang.github.io/files/2025-EXSY-SETCS.pdf'
 bibtexurl: 'http://hugo-liang.github.io/files/2025-EXSY-SETCS.bib'
-citation: '**Yuguo Liang**, Guisheng Fan, Huiqun Yu, Mingchen Li, and Zijie Huang. 2025. Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation. Expert Systems, 42: e13835. https://doi.org/10.1111/exsy.13835.
+citation: '#Yuguo Liang, Guisheng Fan, Huiqun Yu, Mingchen Li, and Zijie Huang. 2025. Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation. Expert Systems, 42: e13835. https://doi.org/10.1111/exsy.13835.
 '
 ---
 
