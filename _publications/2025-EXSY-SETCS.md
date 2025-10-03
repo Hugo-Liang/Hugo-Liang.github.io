@@ -14,8 +14,8 @@ excerpt: '
 date: 2025-01-08
 venue: 'Expert Systems'
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides2.pdf')
-paperurl: 'http://academicpages.github.io/files/2025-EXSY-SETCS.pdf'
-bibtexurl: 'http://academicpages.github.io/files/2025-EXSY-SETCS.bib'
+paperurl: 'http://hugo-liang.github.io/files/2025-EXSY-SETCS.pdf'
+bibtexurl: 'http://hugo-liang.github.io/files/2025-EXSY-SETCS.bib'
 citation: 'Yuguo Liang, Guisheng Fan, Huiqun Yu, Mingchen Li, and Zijie Huang. 2025. Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation. Expert Systems, 42: e13835. https://doi.org/10.1111/exsy.13835.
 '
 ---
