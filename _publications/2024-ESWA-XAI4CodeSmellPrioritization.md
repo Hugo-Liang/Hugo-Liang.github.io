@@ -1,6 +1,5 @@
 ---
-title: "Aligning XAI explanations with software developers’ expectations: A case study with code smell prioritization
-"
+title: "Aligning XAI explanations with software developers’ expectations: A case study with code smell prioritization"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-ESWA-XAI4CodeSmellPrioritization
