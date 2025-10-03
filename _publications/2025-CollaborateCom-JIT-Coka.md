@@ -1,6 +1,6 @@
 ---
 title: "JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change"
-collection: publications"
+collection: publications
 category: conferences
 permalink: /publication/2025-CollaborateCom-JIT-Coka
 excerpt: '
