@@ -16,7 +16,7 @@ date: 2025-08-16
 [//]: # (venue: 'Science of Computer Programming')
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides2.pdf')
 paperurl: 'http://hugo-liang.github.io/files/paper1.pdf'
-citation: 'Guisheng Fan, <strong>Yuguo Liang</strong>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. Science of Computer Programming 2025. [CCF-B][大修返回]
+citation: 'Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. Science of Computer Programming 2025. [CCF-B][大修返回]
 '
 ---
 
