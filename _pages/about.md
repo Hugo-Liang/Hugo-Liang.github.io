@@ -22,7 +22,7 @@ redirect_from:
 - 在审/修订中论文：修订论文（CCF-B/SCI-Q2、CCF-B/SCI-Q4）2篇；在审论文（CCF-A/SCI-Q1、CCF-C/SCI-Q1、CCF-B/SCI-Q2）3篇。
 
 <strong>论文审稿</strong>：
-- 期刊：ESWA[CCF-C/SCI-Q1]、[Empirical Software Engineering (ESE)](https://link.springer.com/journal/10664)、[The Journal of Systems & Software (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[CCF-B/SCI-Q2]、[Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming)[CCF-B/SCI-Q4]、[Journal of Computer Languages (COLA)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[SCI-Q4]
+- 期刊：ESWA[CCF-C/SCI-Q1]、[Empirical Software Engineering (ESE)](https://link.springer.com/journal/10664)[CCF-B/SCI-Q2]、[The Journal of Systems & Software (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[CCF-B/SCI-Q2]、[Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming)[CCF-B/SCI-Q4]、[Journal of Computer Languages (COLA)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[SCI-Q4]
 - 会议：[Software Engineering & Knowledge Engineering (SEKE) 2023](https://ksiresearch.org/seke/seke23.html), [2024](https://ksiresearch.org/seke/seke24.html)[CCF-C]、[CollaborateCom 2023](https://collaboratecom.eai-conferences.org/2023/)[CCF-C]
 
 科研进展
@@ -36,7 +36,11 @@ redirect_from:
 
 [CCF-C] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change. [CollaborateCom 2025](https://collaboratecom.eai-conferences.org/2025/).
 
-[CCF-C] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change. [CollaborateCom 2025](https://collaboratecom.eai-conferences.org/2025/).
+[CCF-C] | Yujie Ye, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Jianan Dong, Wentao Chen. JIT-Align: A Semantic Alignment-Based Ranking Framework for Just-In-Time Defect Prediction. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
+
+[CCF-C] | Xiaotong Wang, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Wentao Chen and Jingyi Liu. License Compatibility Detection for OpenJavaWorks Open-Source Projects Based on Code Similarity. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
+
+[CCF-C] | Jianan Dong, Guisheng Fan<sup>*</sup>, Yueming Yu, <strong>Yuguo Liang</strong>, Yujie Ye,  Wentao Chen. VFProber: A Vulnerability-Fixing Identification Framework Based on Code Changes and Semantic Adjustment. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
 
 
 <strong>小修论文</strong>：
@@ -58,16 +62,16 @@ redirect_from:
 奖励和荣誉
 ======
 - 2023.12.20，“华为杯”第二十届中国研究生数学建模竞赛三等奖，中国学位与研究生教育学会
-- 2019.05.23，[河南省优秀应届大中专毕业生](https://jyt.henan.gov.cn/2019/05-23/1658384.html)，河南省教育厅
+- 2019.05.23，[河南省优秀毕业生](https://jyt.henan.gov.cn/2019/05-23/1658384.html)，河南省教育厅
 - 2018.11.20，[国家奖学金](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html)，中华人民共和国教育部
-- 2018.06.11，[河南省普通高等学校三好学生](https://jyt.henan.gov.cn/2018/06-11/1604388.html)，河南省教育厅
+- 2018.06.11，[河南省三好学生](https://jyt.henan.gov.cn/2018/06-11/1604388.html)，河南省教育厅
 - 2018.05.20，全国大学生英语竞赛（NECCS）C类一等奖，高等学校大学外语教学指导委员会
 - 2016.11.30，国家励志奖学金，河南省教育厅
 
 
 教育经历
 ------
-- 2023.09-2026.06（预计），华东理工大学，信息科学与工程学院，计算机科学与技术，工学博士
+- 2023.09-至今，华东理工大学，信息科学与工程学院，计算机科学与技术，工学博士
 - 2021.09-2023.06，[华东理工大学](https://www.ecust.edu.cn/)，[信息科学与工程学院](https://cise.ecust.edu.cn/)，计算机科学与技术，工学硕士
 - 2015.09-2019.06，[郑州轻工业大学](https://www.zzuli.edu.cn/)，[计算机与通信工程学院](https://cs.zzuli.edu.cn/)，软件工程，工学学士
 
