@@ -30,32 +30,32 @@ Publications
 
 Project experience
 ======
-* [Orient Securities](https://www.dfzq.com.cn/osoa/views/english/home/index.shtml) Intelligent Code Quality Assessment and Open Source Governance Method
+* **[Orient Securities](https://www.dfzq.com.cn/osoa/views/english/home/index.shtml) Intelligent Code Quality Assessment and Open Source Governance Method**
   * **Role**: Project Lead, **Duration**: Oct 2024 – Sep 2025
     * **Project Background**: Detect anomalous code submissions from external contractors and analyzing software component composition.
     * **Main work**:
-      * Utilize Pre-trained Models (PTMs) to vectorize code change contents from submissions; computed both string-based and vector-based similarities to identify exact and approximate file-level code changes for manual labeling. 
-      * Construct a file-level Java code clone dataset using submission metadata, similarity features, and labels; conducted machine learning model training, hyperparameter tuning, feature engineering, evaluation, and deployment, then aggregated file-level predictions to submission-level anomaly detection. 
-      * Explore fine-tuning PTMs and Large Language Models (LLMs) directly on raw code changes, evaluated performance and deployment feasibility. The ML + PTM-based anomaly detection system has been deployed in production with an accuracy of 85%.
+      * Utilize PTM to **vectorize code change contents from submissions**; computed both **string-based and vector-based similarities** to identify exact and approximate file-level code changes for manual labeling. 
+      * **Construct a file-level Java code clone dataset** using submission metadata, similarity features, and labels; conducted **ML model training, hyperparameter tuning, feature engineering, evaluation, and deployment**, then aggregated file-level predictions to submission-level anomaly detection. 
+      * Explore fine-tuning PTMs and Large Language Models (LLMs) directly on raw code changes, evaluated performance and deployment feasibility. The **ML + PTM-based anomaly detection system** has been deployed in production **with an accuracy of 85%**.
 
-* Intelligent Code Quality Assessment Method
+* **Orient Securities Intelligent Code Quality Assessment Method**
   * **Role**: Member / Project Lead, **Duration**: Oct 2023 – Sep 2024
     * **Project Background**: Develop an automated system for detecting duplicate and similar code submissions across departments from external contractors, and for analyzing long-term submission trends.
     * **Main work**:
-      * Leverage PyDriller and Multiprocessing to parallelly extract historical commit records from multiple repositories, improving data preprocessing efficiency. 
-      * Extract modified files and identifiers from each commit and computed pairwise Jaccard similarity to detect duplicate or similar submissions based on predefined thresholds.
-      * Employ the CK Java metrics tool to calculate cohesion, coupling, and complexity metrics after each commit, using their temporal variation to assist in identifying potential duplicate or similar code behaviors.
+      * Leverage **PyDriller and Multiprocessing** to parallelly extract historical commit records from multiple repositories, improving data preprocessing efficiency. 
+      * Extract modified files and identifiers from each commit and computed pairwise **Jaccard similarity** to detect duplicate or similar submissions based on predefined thresholds.
+      * Employ the **Java metrics tool (CK)** to calculate cohesion, coupling, and complexity metrics after each commit, using their temporal variation to assist in identifying potential duplicate or similar code behaviors.
 
 Work experience
 ======
-* IT Operations Engineer, Apr 2021 – Sep 2025
+* **IT Operations Engineer**, Apr 2021 – Sep 2025
   * [China International Intellectech (Shanghai) Co., Ltd.](https://www.ciicsh.com/ciicsh/498473/498475/index.html)
   * **Duties included**: 
     * Station at [Siemens Healthineers Ltd.](https://www.siemens-healthineers.com/), providing on-site technical support for employees, coordinating with external vendors, and maintaining server rooms and IT infrastructure.
     * Manage daily maintenance of office equipment (laptops, workstations, etc.), including asset management, troubleshooting, and hardware replacement.
     * Perform installation, initialization, configuration, and issue diagnosis of operating systems and office software to ensure a stable and efficient working environment.
 
-* Technical Support Engineer, Intern: Apr 2019 – Aug 2019 • Full-time: Aug 2019 – Jul 2020
+* **Technical Support Engineer**, Intern: Apr 2019 – Aug 2019 • Full-time: Aug 2019 – Jul 2020
   * [Shanghai Wicresoft Company,. Ltd.](https://en.wicresoft.com/aboutUs.html)
   * **Duties includes**: 
     * Represent the Microsoft support team, providing technical support for Microsoft products and services via email communication in English.
@@ -67,20 +67,20 @@ Campus Experience
 ======
 * [Graduate Affairs Office, Party Committee](https://gschool.ecust.edu.cn/12704/list.htm), East China University of Science and Technology, Assistant, Oct 2021 – Sep 2023<br>
 **Responsibilities**: Assist in handling the full range of graduate affairs, including admissions, scholarships and financial aid, housing management, and graduation procedures.
-* [Career Planning and Employment Promotion Office](https://cs.zzuli.edu.cn/jycy/main.htm), College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director, Jul 2017 – Jul 2018
+* [Office of Career Planning and Employment Promotion for College Students](https://cs.zzuli.edu.cn/jycy/main.htm), College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director, Jul 2017 – Jul 2018<br>
 **Responsibilities**: Organize graduate employment programs, coordinated campus recruitment events, and facilitated communication between enterprises and academic departments.
-* [College Student Entrepreneurship Center](http://123.57.15.95/?about/), College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director of Animation Department, Jun 2017 – Jun 2018
+* [Entrepreneurship Center for College Students](http://123.57.15.95/?about/), College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director of Animation Department, Jun 2017 – Jun 2018<br>
 **Responsibilities**: Manage external project collaborations, and trained and guided members to participate in computer design competitions.
-* [Computer Enthusiasts Association](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E8%BD%BB%E5%B7%A5%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%8D%8F%E4%BC%9A/15444041), Zhengzhou University of Light Industry, Director of Propaganda and Technical Department, Oct 2016 – Oct 2018
+* [Computer Association](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E8%BD%BB%E5%B7%A5%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%8D%8F%E4%BC%9A/15444041) of Zhengzhou University of Light Industry, Director of Propaganda and Technical Department, Oct 2016 – Oct 2018
 **Responsibilities**: Plan and organize technical workshops and volunteer repair activities to serve the university community.
 
 Skills
 ======
-* <strong>Software Quality Assurance & Intelligent Code Analysis</strong>: Experienced in software defect prediction, defect severity classification, and vulnerability detection. Familiar with code understanding and generation tasks, including commit classification, code clone detection, patch identification, and code summarization. Knowledgeable in static program analysis methods and common tools.
-* <strong>Machine Learning & Large Model Applications</strong>: Proficient in classical ML methods (LR, GBDT, MLP), DL architectures (TextCNN, LSTM, Transformer), and PTMs (BERT, BART, T5), with expertise in optimization strategies such as feature engineering, model ensemble, hyperparameter tuning, feature extraction, and interpretability analysis. Experienced in applying and fine-tuning LLMs (Llama, DeepSeek, etc.) using LoRA techniques based on <em>Llama-Factory</em> and <em>vLLM</em>.
-* <strong>Data Analysis & Modeling</strong>: Skilled in data processing and visualization with Python (NumPy, Pandas, SciPy, Matplotlib). Experienced in model training, fine-tuning, and evaluation using frameworks such as Scikit-learn, PyTorch, and Transformers. Proficient in statistical significance testing and effect size analysis.
-* <strong>Testing & System Operations</strong>: Knowledgeable in software testing, databases, and networking. Familiar with tools such as Pytest and Wireshark for code and network issue analysis. Proficient in Windows and Linux systems, with basic familiarity with macOS. Capable of independent hardware maintenance and troubleshooting.
-* <strong>Common Tools & Software</strong>: Proficient in Office and Acrobat for documentation. Familiar with image, video, and text processing software (CorelDRAW, Photoshop, Premiere, Nero). Experienced in 3D modeling (3ds Max) and virtualization platforms (VMware, WSL).
+* **Software Quality Assurance & Intelligent Code Analysis**: Experienced in software defect prediction, defect severity classification, and vulnerability detection. Familiar with code understanding and generation tasks, including commit classification, code clone detection, patch identification, and code summarization. Knowledgeable in static program analysis methods and common tools.
+* **Machine Learning & Large Language Model Applications**: Proficient in classical **Machine Learning (ML)** methods (LR, GBDT, MLP), **Deep Learning (DL)** architectures (TextCNN, LSTM, Transformer), and **Pre-Trained Models (PTMs)** (BERT, BART, T5), with expertise in optimization strategies such as feature engineering, model ensemble, hyperparameter tuning, feature extraction, and interpretability analysis. Experienced in applying and fine-tuning **Large Language Models (LLMs** (Llama, DeepSeek, etc.) using LoRA techniques based on <em>Llama-Factory</em> and <em>vLLM</em>.
+* **Data Analysis & Modeling**: Skilled in data processing and visualization with Python (NumPy, Pandas, SciPy, Matplotlib). Experienced in model training, fine-tuning, and evaluation using frameworks such as Scikit-learn, PyTorch, and Transformers. Proficient in statistical significance testing and effect size analysis.
+* **Testing & System Operations**: Knowledgeable in software testing, databases, and networking. Familiar with tools such as Pytest and Wireshark for code and network issue analysis. Proficient in Windows and Linux systems, with basic familiarity with macOS. Capable of independent hardware maintenance and troubleshooting.
+* **Common Tools & Software**: Proficient in Office and Acrobat for documentation. Familiar with image, video, and text processing software (CorelDRAW, Photoshop, Premiere, Nero). Experienced in 3D modeling (3ds Max) and virtualization platforms (VMware, WSL).
 
 
 Self-Evaluation
