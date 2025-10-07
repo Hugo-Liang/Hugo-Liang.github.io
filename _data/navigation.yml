@@ -22,9 +22,12 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+
+  - title: "CV-zh"
+    url: /cv-zh/
+
+  - title: "CV-en"
+    url: /cv-en/
     
   # - title: "CV"
   #   url: /cv-json/
