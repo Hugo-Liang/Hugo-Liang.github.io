@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Technology, [East China University of Science and Technology](https://www.ecust.edu.cn/en/), Sep 2023 - June 2026 (expected)
+* Ph.D in Computer Science and Technology, [East China University of Science and Technology](https://www.ecust.edu.cn/en/), Sep 2023 - Jun 2026 (expected)
   * **GPA**: 3.55/4.0
   * **Awards and Honors**: Third Prize in "HUAWEI Cup" The 20th China Post-Graduate Mathematical Contest in Modeling; Excellent Student Cadre、Social Work of East China University of Science and Technology
-* M.S. in Computer Science and Technology, East China University of Science and Technology, Sep 2021 - June 2023 
+* M.S. in Computer Science and Technology, East China University of Science and Technology, Sep 2021 - Jun 2023 
   * **GPA**: 3.44/4.0
   * **CET-6**: 539, proficient in reading and writing, good at listening and speaking 
-* B.S. in Software Engineering, [Zhengzhou University of Light Industry](https://en.zzuli.edu.cn/), Sep 2015 - June 2019
+* B.S. in Software Engineering, [Zhengzhou University of Light Industry](https://en.zzuli.edu.cn/), Sep 2015 - Jun 2019
   * **GPA**: 3.57/4.0
   * **Awards and Honors**: National Motivational Scholarship, National Scholarship, First Prize for Band C in 2018 National English Competition for College Students; Merit Student of Henan Province, Excellent Graduate of Henan Province
 
@@ -48,36 +48,36 @@ Project experience
 
 Work experience
 ======
-* **IT Operations Engineer**, Apr 2021 – Sep 2025
+* **IT Operations Engineer**, Apr 2021 – Sep 2021
   * [China International Intellectech (Shanghai) Co., Ltd.](https://www.ciicsh.com/ciicsh/498473/498475/index.html)
-  * **Duties included**: 
+  * **Duties**: 
     * Station at [Siemens Healthineers Ltd.](https://www.siemens-healthineers.com/), providing on-site technical support for employees, coordinating with external vendors, and maintaining server rooms and IT infrastructure.
     * Manage daily maintenance of office equipment (laptops, workstations, etc.), including asset management, troubleshooting, and hardware replacement.
     * Perform installation, initialization, configuration, and issue diagnosis of operating systems and office software to ensure a stable and efficient working environment.
 
 * **Technical Support Engineer**, Intern: Apr 2019 – Aug 2019 • Full-time: Aug 2019 – Jul 2020
   * [Shanghai Wicresoft Company,. Ltd.](https://en.wicresoft.com/aboutUs.html)
-  * **Duties includes**: 
+  * **Duties**: 
     * Represent the Microsoft support team, providing technical support for Microsoft products and services via email communication in English.
     * Serve a diverse global user base including enterprise, commercial, educational (domestic and international), and individual clients.
     * Support both desktop (Windows / macOS) and mobile (Android / iOS) platforms for SharePoint Online, OneDrive for Business, Teams, and related Microsoft 365 subscription services.
     * Deliver tailored technical solutions based on customer requirements, collected and validated feedback, and escalated recurring or critical issues to relevant internal teams.
 
-Campus Experience
+Campus experience
 ======
-* [Graduate Affairs Office, Party Committee](https://gschool.ecust.edu.cn/12704/list.htm), East China University of Science and Technology, Assistant, Oct 2021 – Sep 2023<br>
-**Responsibilities**: Assist in handling the full range of graduate affairs, including admissions, scholarships and financial aid, housing management, and graduation procedures.
-* [Office of Career Planning and Employment Promotion for College Students](https://cs.zzuli.edu.cn/jycy/main.htm), College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director, Jul 2017 – Jul 2018<br>
+* [Graduate Affairs Office, Party Committee](https://gschool.ecust.edu.cn/12704/list.htm) in East China University of Science and Technology, Assistant, Oct 2021 – Sep 2023<br>
+**Responsibilities**: Assist in handling the full range of graduate affairs, including admissions, scholarships, financial aid, housing management, and graduation procedures.
+* [Office of Career Planning and Employment Promotion for College Students](https://cs.zzuli.edu.cn/jycy/main.htm) in College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director, Jul 2017 – Jul 2018<br>
 **Responsibilities**: Organize graduate employment programs, coordinated campus recruitment events, and facilitated communication between enterprises and academic departments.
-* [Entrepreneurship Center for College Students](http://123.57.15.95/?about/), College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director of Animation Department, Jun 2017 – Jun 2018<br>
+* [Entrepreneurship Center for College Students](http://123.57.15.95/?about/) in College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director of Animation Department, Jun 2017 – Jun 2018<br>
 **Responsibilities**: Manage external project collaborations, and trained and guided members to participate in computer design competitions.
-* [Computer Association](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E8%BD%BB%E5%B7%A5%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%8D%8F%E4%BC%9A/15444041) of Zhengzhou University of Light Industry, Director of Propaganda and Technical Department, Oct 2016 – Oct 2018
+* [Computer Association](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E8%BD%BB%E5%B7%A5%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%8D%8F%E4%BC%9A/15444041) of Zhengzhou University of Light Industry, Director of Propaganda and Technical Department, Oct 2016 – Oct 2018<br>
 **Responsibilities**: Plan and organize technical workshops and volunteer repair activities to serve the university community.
 
 Skills
 ======
 * **Software Quality Assurance & Intelligent Code Analysis**: Experienced in software defect prediction, defect severity classification, and vulnerability detection. Familiar with code understanding and generation tasks, including commit classification, code clone detection, patch identification, and code summarization. Knowledgeable in static program analysis methods and common tools.
-* **Machine Learning & Large Language Model Applications**: Proficient in classical **Machine Learning (ML)** methods (LR, GBDT, MLP), **Deep Learning (DL)** architectures (TextCNN, LSTM, Transformer), and **Pre-Trained Models (PTMs)** (BERT, BART, T5), with expertise in optimization strategies such as feature engineering, model ensemble, hyperparameter tuning, feature extraction, and interpretability analysis. Experienced in applying and fine-tuning **Large Language Models (LLMs** (Llama, DeepSeek, etc.) using LoRA techniques based on <em>Llama-Factory</em> and <em>vLLM</em>.
+* **Machine Learning & Large Language Model Applications**: Proficient in classical **Machine Learning (ML)** methods (LR, GBDT, MLP), **Deep Learning (DL)** architectures (TextCNN, LSTM, Transformer), and **Pre-Trained Models (PTMs)** (BERT, BART, T5), with expertise in optimization strategies such as feature engineering, model ensemble, hyperparameter tuning, feature extraction, and interpretability analysis. Experienced in applying and fine-tuning **Large Language Models (LLMs)** (Llama, DeepSeek, etc.) using LoRA techniques based on <em>Llama-Factory</em> and <em>vLLM</em>.
 * **Data Analysis & Modeling**: Skilled in data processing and visualization with Python (NumPy, Pandas, SciPy, Matplotlib). Experienced in model training, fine-tuning, and evaluation using frameworks such as Scikit-learn, PyTorch, and Transformers. Proficient in statistical significance testing and effect size analysis.
 * **Testing & System Operations**: Knowledgeable in software testing, databases, and networking. Familiar with tools such as Pytest and Wireshark for code and network issue analysis. Proficient in Windows and Linux systems, with basic familiarity with macOS. Capable of independent hardware maintenance and troubleshooting.
 * **Common Tools & Software**: Proficient in Office and Acrobat for documentation. Familiar with image, video, and text processing software (CorelDRAW, Photoshop, Premiere, Nero). Experienced in 3D modeling (3ds Max) and virtualization platforms (VMware, WSL).

@@ -46,7 +46,7 @@ redirect_from:
 
 工作经历
 ======
-* **IT运维工程师**，2021.04.19 -> 2025.09.10
+* **IT运维工程师**，2021.04.19 -> 2021.09.10
   * [中智上海经济技术合作有限公司](https://www.ciicsh.com/ciicsh/zjzz281/zzsh/index.html)
   * **工作内容**：
     * 驻场[西门子医疗系统有限公司](https://www.siemens-healthineers.cn/)，为员工提供日常办公技术支持，并负责供应商对接、机房与服务器维护。
