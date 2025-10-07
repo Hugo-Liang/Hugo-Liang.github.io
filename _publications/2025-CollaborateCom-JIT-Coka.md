@@ -16,7 +16,7 @@ date: 2025-08-31
 venue: '21th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing'
 paperurl: 'http://hugo-liang.github.io/files/2025-CollaborateCom-JIT-Coka.pdf'
 [//]: # (bibtexurl: 'http://hugo-liang.github.io/files/2025-CS-SCA_Tools.bib')
-citation: '<strong>Yuguo Liang</strong>, Chengcheng Wu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change. Collaborative Computing: Networking, Applications and Worksharing. CollaborateCom 2025. [CCF-C][预出版]
+citation: '<strong>Yuguo Liang</strong>, Chengcheng Wu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change. Collaborative Computing: Networking, Applications and Worksharing. CollaborateCom 2025. [CCF-C]
 '
 ---
 

@@ -18,12 +18,12 @@ redirect_from:
 <strong>科研项目</strong>：作为核心成员参与国家级及省部级科研项目3项，包括国家自然科学基金（面上项目、重大项目）和上海市自然科学基金
 
 <strong>科研成果</strong>：
-- 已发表/录用论文：在[Expert Systems with Applications (ESWA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)、[Computers & Security (C&S)](https://www.sciencedirect.com/journal/computers-and-security)、[Computers & Security (EXSY)](https://onlinelibrary.wiley.com/journal/14680394)、[Computers, Software, and Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2025/)、[Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom)](https://collaboratecom.eai-conferences.org/2025/)等国际期刊和会议上发表论文7篇。包括CCF-B论文1篇、CCF-C论文6篇（其中SCI Q1一篇、Q2一篇、Q4一篇）。
-- 在审/修订中论文：修订论文（CCF-B/SCI-Q2、CCF-B/SCI-Q4）2篇；在审论文（CCF-A/SCI-Q1、CCF-C/SCI-Q1、CCF-B/SCI-Q2）3篇。
+- **已发表/录用论文**：在[Expert Systems with Applications (ESWA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)、[Computers & Security (C&S)](https://www.sciencedirect.com/journal/computers-and-security)、[Computers & Security (EXSY)](https://onlinelibrary.wiley.com/journal/14680394)、[Computers, Software, and Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2025/)、[Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom)](https://collaboratecom.eai-conferences.org/2025/)等国际期刊和会议上发表论文7篇。包括CCF-B论文1篇、CCF-C论文6篇（其中SCI Q1一篇、Q2一篇、Q4一篇）。
+- **在审/修订中论文**：修订论文（CCF-B/SCI-Q2、CCF-B/SCI-Q4）2篇；在审论文（CCF-A/SCI-Q1、CCF-C/SCI-Q1、CCF-B/SCI-Q2）3篇。
 
 <strong>论文审稿</strong>：
-- 期刊：ESWA[CCF-C/SCI-Q1]、[Empirical Software Engineering (ESE)](https://link.springer.com/journal/10664)[CCF-B/SCI-Q2]、[The Journal of Systems & Software (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[CCF-B/SCI-Q2]、[Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming)[CCF-B/SCI-Q4]、[Journal of Computer Languages (COLA)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[SCI-Q4]
-- 会议：[Software Engineering & Knowledge Engineering (SEKE) 2023](https://ksiresearch.org/seke/seke23.html), [2024](https://ksiresearch.org/seke/seke24.html)[CCF-C]、[CollaborateCom 2023](https://collaboratecom.eai-conferences.org/2023/)[CCF-C]
+- **期刊**：ESWA[CCF-C/SCI-Q1]、[Empirical Software Engineering (ESE)](https://link.springer.com/journal/10664)[CCF-B/SCI-Q2]，[The Journal of Systems & Software (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[CCF-B/SCI-Q2]，[Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming)[CCF-B/SCI-Q4]、[Journal of Computer Languages (COLA)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[SCI-Q4]
+- **会议**：[Software Engineering & Knowledge Engineering (SEKE) 2023](https://ksiresearch.org/seke/seke23.html)、[2024](https://ksiresearch.org/seke/seke24.html)[CCF-C]，[CollaborateCom 2023](https://collaboratecom.eai-conferences.org/2023/)[CCF-C]
 
 科研进展
 ======
