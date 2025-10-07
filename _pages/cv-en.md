@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Technology, [East China University of Science and Technology](https://www.ecust.edu.cn/en/), Sep 2023 - Jun 2026 (expected)
+* Ph.D in Computer Science and Technology, [**E**ast **C**hina **U**niversity of **S**cience and **T**echnology](https://www.ecust.edu.cn/en/), Sep 2023 - Jun 2026 (expected)
   * **GPA**: 3.55/4.0
-  * **Awards and Honors**: Third Prize in "HUAWEI Cup" The 20th China Post-Graduate Mathematical Contest in Modeling; Excellent Student Cadre、Social Work of East China University of Science and Technology
-* M.S. in Computer Science and Technology, East China University of Science and Technology, Sep 2021 - Jun 2023 
+  * **Awards and Honors**: Third Prize in "HUAWEI Cup" The 20th China Post-Graduate Mathematical Contest in Modeling; Excellent Student Cadre、Social Work of ECUST
+* M.S. in Computer Science and Technology, ECUST, Sep 2021 - Jun 2023 
   * **GPA**: 3.44/4.0
   * **CET-6**: 539, proficient in reading and writing, good at listening and speaking 
-* B.S. in Software Engineering, [Zhengzhou University of Light Industry](https://en.zzuli.edu.cn/), Sep 2015 - Jun 2019
+* B.S. in Software Engineering, [**Z**heng**z**hou **U**niversity of **L**ight **I**ndustry](https://en.zzuli.edu.cn/), Sep 2015 - Jun 2019
   * **GPA**: 3.57/4.0
   * **Awards and Honors**: National Motivational Scholarship, National Scholarship, First Prize for Band C in 2018 National English Competition for College Students; Merit Student of Henan Province, Excellent Graduate of Henan Province
 
@@ -65,13 +65,13 @@ Work experience
 
 Campus experience
 ======
-* [Graduate Affairs Office, Party Committee](https://gschool.ecust.edu.cn/12704/list.htm) in East China University of Science and Technology, Assistant, Oct 2021 – Sep 2023<br>
+* [Graduate Affairs Office, Party Committee](https://gschool.ecust.edu.cn/12704/list.htm) in ECUST, Assistant, Oct 2021 – Sep 2023<br>
 **Responsibilities**: Assist in handling the full range of graduate affairs, including admissions, scholarships, financial aid, housing management, and graduation procedures.
-* [Office of Career Planning and Employment Promotion for College Students](https://cs.zzuli.edu.cn/jycy/main.htm) in College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director, Jul 2017 – Jul 2018<br>
+* [Office of Career Planning and Employment Promotion for College Students](https://cs.zzuli.edu.cn/jycy/main.htm) in College of Computer and Communication Engineering, ZZULI, Deputy Director, Jul 2017 – Jul 2018<br>
 **Responsibilities**: Organize graduate employment programs, coordinated campus recruitment events, and facilitated communication between enterprises and academic departments.
-* [Entrepreneurship Center for College Students](http://123.57.15.95/?about/) in College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director of Animation Department, Jun 2017 – Jun 2018<br>
+* [Entrepreneurship Center for College Students](http://123.57.15.95/?about/) in College of Computer and Communication Engineering, ZZULI, Deputy Director of Animation Department, Jun 2017 – Jun 2018<br>
 **Responsibilities**: Manage external project collaborations, and trained and guided members to participate in computer design competitions.
-* [Computer Association](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E8%BD%BB%E5%B7%A5%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%8D%8F%E4%BC%9A/15444041) of Zhengzhou University of Light Industry, Director of Propaganda and Technical Department, Oct 2016 – Oct 2018<br>
+* [Computer Association](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E8%BD%BB%E5%B7%A5%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%8D%8F%E4%BC%9A/15444041) of ZZULI, Director of Propaganda and Technical Department, Oct 2016 – Oct 2018<br>
 **Responsibilities**: Plan and organize technical workshops and volunteer repair activities to serve the university community.
 
 Skills
