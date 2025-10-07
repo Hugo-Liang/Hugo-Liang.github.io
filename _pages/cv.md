@@ -11,21 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Technology, East China University of Science and Technology, 2026 (expected)
+  * GPA：3.55/4.0
+  * Honors: Excellent Student Cadre、Social Work
+* M.S. in Computer Science and Technology, East China University of Science and Technology, 2023 
+  * GPA：3.44/4.0
+  * CET-6: 539, 
+  * Honors: Excellent Social Work
+* B.S. in Software Engineering, Zhengzhou University of Light Industry, 2019
+  * GPA：3.57/4.0
+  * Awards: 
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
+Project experience
+======
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021.04.19-2025.09.10: IT Operations Engineer
+  * [China International Intellectech (Shanghai) Co.](https://www.ciicsh.com/ciicsh/498473/498475/index.html)
+  * Duties included: 
+    * Merging pull requests
+    * 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.08.01-2020.07.10: Technical Support Engineer
+  * [Shanghai Wicresoft Company,. Ltd.](https://en.wicresoft.com/aboutUs.html)
+  * Duties includes: 
+    * Updates and improvements to template
+    * 
 
 * Summer 2015: Research Assistant
   * GitHub University
@@ -47,18 +67,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
