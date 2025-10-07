@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Technology, [East China University of Science and Technology](https://www.ecust.edu.cn/en/), 2023.09-2026.06 (expected)
+* Ph.D in Computer Science and Technology, [East China University of Science and Technology](https://www.ecust.edu.cn/en/), Sep 2023 - June 2026 (expected)
   * **GPA**: 3.55/4.0
   * **Awards and Honors**: Third Prize in "HUAWEI Cup" The 20th China Post-Graduate Mathematical Contest in Modeling; Excellent Student Cadre、Social Work of East China University of Science and Technology
-* M.S. in Computer Science and Technology, East China University of Science and Technology, 2021.09-2023.06 
+* M.S. in Computer Science and Technology, East China University of Science and Technology, Sep 2021 - June 2023 
   * **GPA**: 3.44/4.0
   * **CET-6**: 539, proficient in reading and writing, good at listening and speaking 
-* B.S. in Software Engineering, [Zhengzhou University of Light Industry](https://en.zzuli.edu.cn/), 2015.09-2019.06
+* B.S. in Software Engineering, [Zhengzhou University of Light Industry](https://en.zzuli.edu.cn/), Sep 2015 - June 2019
   * **GPA**: 3.57/4.0
   * **Awards and Honors**: National Motivational Scholarship, National Scholarship, First Prize for Band C in 2018 National English Competition for College Students; Merit Student of Henan Province, Excellent Graduate of Henan Province
 
@@ -31,7 +31,7 @@ Publications
 Project experience
 ======
 * [Orient Securities](https://www.dfzq.com.cn/osoa/views/english/home/index.shtml) Intelligent Code Quality Assessment and Open Source Governance Method
-  * **Role**: Project Lead | **Duration**: Oct 2024 – Sep 2025
+  * **Role**: Project Lead, **Duration**: Oct 2024 – Sep 2025
     * **Project Background**: Detect anomalous code submissions from external contractors and analyzing software component composition.
     * **Main work**:
       * Utilize Pre-trained Models (PTMs) to vectorize code change contents from submissions; computed both string-based and vector-based similarities to identify exact and approximate file-level code changes for manual labeling. 
@@ -39,7 +39,7 @@ Project experience
       * Explore fine-tuning PTMs and Large Language Models (LLMs) directly on raw code changes, evaluated performance and deployment feasibility. The ML + PTM-based anomaly detection system has been deployed in production with an accuracy of 85%.
 
 * Intelligent Code Quality Assessment Method
-  * **Role**: Member / Project Lead | **Duration**: Oct 2023 – Sep 2024
+  * **Role**: Member / Project Lead, **Duration**: Oct 2023 – Sep 2024
     * **Project Background**: Develop an automated system for detecting duplicate and similar code submissions across departments from external contractors, and for analyzing long-term submission trends.
     * **Main work**:
       * Leverage PyDriller and Multiprocessing to parallelly extract historical commit records from multiple repositories, improving data preprocessing efficiency. 
@@ -48,14 +48,14 @@ Project experience
 
 Work experience
 ======
-* IT Operations Engineer | Apr 2021 – Sep 2025
+* IT Operations Engineer, Apr 2021 – Sep 2025
   * [China International Intellectech (Shanghai) Co., Ltd.](https://www.ciicsh.com/ciicsh/498473/498475/index.html)
   * **Duties included**: 
     * Station at [Siemens Healthineers Ltd.](https://www.siemens-healthineers.com/), providing on-site technical support for employees, coordinating with external vendors, and maintaining server rooms and IT infrastructure.
     * Manage daily maintenance of office equipment (laptops, workstations, etc.), including asset management, troubleshooting, and hardware replacement.
     * Perform installation, initialization, configuration, and issue diagnosis of operating systems and office software to ensure a stable and efficient working environment.
 
-* Technical Support Engineer | Intern: Apr 2019 – Aug 2019 • Full-time: Aug 2019 – Jul 2020
+* Technical Support Engineer, Intern: Apr 2019 – Aug 2019 • Full-time: Aug 2019 – Jul 2020
   * [Shanghai Wicresoft Company,. Ltd.](https://en.wicresoft.com/aboutUs.html)
   * **Duties includes**: 
     * Represent the Microsoft support team, providing technical support for Microsoft products and services via email communication in English.
@@ -65,13 +65,13 @@ Work experience
 
 Campus Experience
 ======
-* East China University of Science and Technology — Graduate Affairs Office, Party Committee | Assistant | Oct 2021 – Sep 2023
+* [Graduate Affairs Office, Party Committee](https://gschool.ecust.edu.cn/12704/list.htm), East China University of Science and Technology, Assistant, Oct 2021 – Sep 2023<br>
 **Responsibilities**: Assist in handling the full range of graduate affairs, including admissions, scholarships and financial aid, housing management, and graduation procedures.
-* Zhengzhou University of Light Industry — Career Planning and Employment Promotion Office | Deputy Director | Jul 2017 – Jul 2018
+* [Career Planning and Employment Promotion Office](https://cs.zzuli.edu.cn/jycy/main.htm), College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director, Jul 2017 – Jul 2018
 **Responsibilities**: Organize graduate employment programs, coordinated campus recruitment events, and facilitated communication between enterprises and academic departments.
-* Zhengzhou University of Light Industry — Student Science and Entrepreneurship Center | Deputy Director of Animation Department | Jun 2017 – Jun 2018
+* [College Student Entrepreneurship Center](http://123.57.15.95/?about/), College of Computer and Communication Engineering, Zhengzhou University of Light Industry, Deputy Director of Animation Department, Jun 2017 – Jun 2018
 **Responsibilities**: Manage external project collaborations, and trained and guided members to participate in computer design competitions.
-* Zhengzhou University of Light Industry — Computer Enthusiasts Association | Director of Propaganda and Technical Department | Oct 2016 – Oct 2018
+* [Computer Enthusiasts Association](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E8%BD%BB%E5%B7%A5%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%8D%8F%E4%BC%9A/15444041), Zhengzhou University of Light Industry, Director of Propaganda and Technical Department, Oct 2016 – Oct 2018
 **Responsibilities**: Plan and organize technical workshops and volunteer repair activities to serve the university community.
 
 Skills
