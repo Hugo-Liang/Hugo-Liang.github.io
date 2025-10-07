@@ -18,7 +18,7 @@ redirect_from:
 <strong>科研项目</strong>：作为核心成员参与国家级及省部级科研项目3项，包括国家自然科学基金（面上项目、重大项目）和上海市自然科学基金
 
 <strong>科研成果</strong>：
-- **已发表/录用论文**：在[**E**xpert **S**ystems **w**ith **A**pplications (ESWA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)、[**C**omputers & **S**ecurity (C&S)](https://www.sciencedirect.com/journal/computers-and-security)、[**Ex**pert **Sy**stems (EXSY)](https://onlinelibrary.wiley.com/journal/14680394)、[**Comp**uters, **S**oftware, and **A**pplications **C**onference (COMPSAC)](https://ieeecompsac.computer.org/2025/)、[**Collaborat**ive **Com**puting: Networking, Applications and Worksharing (CollaborateCom)](https://collaboratecom.eai-conferences.org/2025/)等国际期刊和会议上发表论文7篇。包括CCF-B论文1篇、CCF-C论文6篇（其中SCI Q1一篇、Q2一篇、Q4一篇）。
+- **已发表/录用论文**：在[**E**xpert **S**ystems **w**ith **A**pplications (ESWA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)、[**C**omputers & **S**ecurity (C&S)](https://www.sciencedirect.com/journal/computers-and-security)、[**Ex**pert **Sy**stems (EXSY)](https://onlinelibrary.wiley.com/journal/14680394)、[**Comp**uters, **S**oftware, and **A**pplications **C**onference (COMPSAC)](https://ieeecompsac.computer.org/2025/)、[**Collaborat**iv**e** **Com**puting: Networking, Applications and Worksharing (CollaborateCom)](https://collaboratecom.eai-conferences.org/2025/)等国际期刊和会议上发表论文7篇。包括CCF-B论文1篇、CCF-C论文6篇（其中SCI Q1一篇、Q2一篇、Q4一篇）。
 - **在审/修订中论文**：修订论文（CCF-B/SCI-Q2、CCF-B/SCI-Q4）2篇；在审论文（CCF-A/SCI-Q1、CCF-C/SCI-Q1、CCF-B/SCI-Q2）3篇。
 
 <strong>论文审稿</strong>：

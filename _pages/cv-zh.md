@@ -77,8 +77,8 @@ redirect_from:
 * **软件质量保障与代码智能分析**：具备软件缺陷预测、缺陷报告严重性分级、漏洞检测等研究与实践经验。熟悉代码理解与生成相关任务，包括代码提交分类、代码克隆检测、漏洞补丁识别与代码摘要生成。了解静态程序分析方法与常用工具。
 * **机器学习与大语言模型应用**：掌握经典**机器学习（Machine Learning, ML）**方法（LR、GBDT、MLP）、**深度学习（Deep Learning，DL）**方法（TextCNN、LSTM、Transformer）与**预训练模型（Pre-Trained Models，PTMs）**（BERT、BART、T5）及相关优化策略（特征工程、模型集成、超参调优、特征提取、可解释性分析）。具备**大语言模型（Large Language Models，LLMs）**（Llama、DeepSeek等）使用与LoRA微调经验（基于Llama-Factory + vLLM）。
 * **数据分析与建模**：熟练使用 Python 进行数据处理与可视化（NumPy、Pandas、SciPy、Matplotlib）。熟悉模型训练、微调与测试框架搭建和调优（Scikit-learn、PyTorch、Transformers）。掌握统计学显著性检验与效应量分析方法。
-* **测试与系统运维**：具备软件测试、数据库及网络相关知识，熟悉Pytest、Wireshark等工具，能够进行代码与网络问题分析。熟悉Windows / Linux系统，了解macOS；具备软硬件维护与故障排查能力，可独立完成硬件设备拆装。
-* **常用工具与软件**：熟练使用Office、Acrobat办公软件。熟悉图像、视频与文本处理软件（CDR、PS、PR、Nero）。具备三维建模（3ds Max）与虚拟化平台（VMware、WSL）使用经验。
+* **测试与系统运维**：具备软件测试、数据库及网络相关知识，熟悉Pytest、Wireshark等工具，能够进行代码与网络问题分析。熟悉Windows、Linux系统，了解macOS；具备软硬件维护与故障排查能力，可独立完成硬件设备拆装。
+* **常用工具与软件**：熟练使用Office、Acrobat办公软件。熟悉文本、图像与视频处理软件（CorelDRAW、Photoshop、Premiere、Nero）。具备三维建模（3ds Max）与虚拟化平台（VMware、WSL）使用经验。
 
 
 自我评价
