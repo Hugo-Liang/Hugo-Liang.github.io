@@ -32,19 +32,19 @@ Project experience
 ======
 * **[Orient Securities](https://www.dfzq.com.cn/osoa/views/english/home/index.shtml) Intelligent Code Quality Assessment and Open Source Governance Method**
   * **Role**: Project Lead, **Duration**: Oct 2024 – Sep 2025
-    * **Project Background**: Detect anomalous code submissions from external contractors and analyzing software component composition.
+    * **Project Background**: Detect anomalous code commits from outsourcing personnel and analyze software component composition.
     * **Main work**:
-      * Utilize PTM to **vectorize code change contents from submissions**; computed both **string-based and vector-based similarities** to identify exact and approximate file-level code changes for manual labeling. 
-      * **Construct a file-level Java code clone dataset** using submission metadata, similarity features, and labels; conducted **ML model training, hyperparameter tuning, feature engineering, evaluation, and deployment**, then aggregated file-level predictions to submission-level anomaly detection. 
-      * Explore fine-tuning PTMs and Large Language Models (LLMs) directly on raw code changes, evaluated performance and deployment feasibility. The **ML + PTM-based anomaly detection system** has been deployed in production **with an accuracy of 85%**.
+      * Utilize PTM to **vectorize code change contents from commits**. Compute both **string-based and vector-based similarities** to identify exact and near duplicate file-level code changes for manual labeling. 
+      * **Construct a file-level Java code clone dataset** using commit metadata, similarity features, and labels. Conduct **ML model training, hyperparameter tuning, feature engineering, evaluation, and deployment**, then aggregate file-level predictions to commit-level anomaly detection. 
+      * Explore fine-tuning PTMs and Large Language Models (LLMs) directly on raw code changes. Evaluate performance and deployment feasibility. The **ML + PTM-based anomalous commits detection system** has been deployed in production **with a precision of 85%**.
 
 * **Orient Securities Intelligent Code Quality Assessment Method**
   * **Role**: Member / Project Lead, **Duration**: Oct 2023 – Sep 2024
-    * **Project Background**: Develop an automated system for detecting duplicate and similar code submissions across departments from external contractors, and for analyzing long-term submission trends.
+    * **Project Background**: Develop an automated system for detecting duplicate and similar code commits across departments from outsourcing personnel, and for analyzing long-term commit trends.
     * **Main work**:
-      * Leverage **PyDriller and Multiprocessing** to parallelly extract historical commit records from multiple repositories, improving data preprocessing efficiency. 
-      * Extract modified files and identifiers from each commit and computed pairwise **Jaccard similarity** to detect duplicate or similar submissions based on predefined thresholds.
-      * Employ the **Java metrics tool (CK)** to calculate cohesion, coupling, and complexity metrics after each commit, using their temporal variation to assist in identifying potential duplicate or similar code behaviors.
+      * Leverage **PyDriller and Multiprocessing** to extract historical commit records from multiple repositories in parallel, improving data preprocessing efficiency. 
+      * Extract modified files and identifiers from each commit and compute pairwise **Jaccard similarity** to detect duplicate or similar commits based on predefined thresholds.
+      * Employ the **Java metrics tool (CK)** to calculate cohesion, coupling, and complexity metrics after each commit, using their temporal variation to assist in identifying potential duplicate or similar commit behaviors.
 
 Work experience
 ======
@@ -59,26 +59,26 @@ Work experience
   * [Shanghai Wicresoft Company,. Ltd.](https://en.wicresoft.com/aboutUs.html)
   * **Duties**: 
     * Represent the Microsoft support team, providing technical support for Microsoft products and services via email communication in English.
-    * Serve a diverse global user base including enterprise, commercial, educational (domestic and international), and individual clients.
+    * Serve a diverse global user base including enterprise, commercial, educational (domestic and international), and individual clients (overseas).
     * Support both desktop (Windows / macOS) and mobile (Android / iOS) platforms for SharePoint Online, OneDrive for Business, Teams, and related Microsoft 365 subscription services.
-    * Deliver tailored technical solutions based on customer requirements, collected and validated feedback, and escalated recurring or critical issues to relevant internal teams.
+    * Deliver tailored technical solutions based on customer requirements. Collect and validate feedback, and escalate recurring or critical issues to relevant internal teams.
 
 Campus experience
 ======
 * [Graduate Affairs Office, Party Committee](https://gschool.ecust.edu.cn/12704/list.htm) in ECUST, Assistant, Oct 2021 – Sep 2023<br>
 **Responsibilities**: Assist in handling the full range of graduate affairs, including admissions, scholarships, financial aid, housing management, and graduation procedures.
 * [Computer Association](https://baike.baidu.com/item/%E9%83%91%E5%B7%9E%E8%BD%BB%E5%B7%A5%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%8D%8F%E4%BC%9A/15444041) of ZZULI, Director of Propaganda and Technical Departments, Oct 2016 – Oct 2018<br>
-**Responsibilities**: Plan and organize technical workshops and volunteer repair activities to serve the university community.
-* [Office of Career Planning and Employment Promotion for College Students](https://cs.zzuli.edu.cn/jycy/main.htm) in College of Computer and Communication Engineering, ZZULI, Deputy Director, Jul 2017 – Jul 2018<br>
-**Responsibilities**: Organize graduate employment programs, coordinated campus recruitment events, and facilitated communication between enterprises and academic departments.
-* [Entrepreneurship Center for College Students](http://123.57.15.95/?about/) in College of Computer and Communication Engineering, ZZULI, Deputy Director of Animation Department, Jun 2017 – Jun 2018<br>
-**Responsibilities**: Manage external project collaborations, and trained and guided members to participate in computer design competitions.
+**Responsibilities**: Plan and organize technical workshops and volunteer repair activities to serve the whole school.
+* [Office of Career Planning and Employment Promotion for College Students](https://cs.zzuli.edu.cn/jycy/main.htm) in College of Computer and Communication Engineering in ZZULI, Deputy Director, Jul 2017 – Jul 2018<br>
+**Responsibilities**: Organize graduate employment programs, coordinate campus recruitment events, and facilitate communication between enterprises and the college.
+* [Entrepreneurship Center for College Students](http://123.57.15.95/?about/) in College of Computer and Communication Engineering in ZZULI, Deputy Director of Animation Department, Jun 2017 – Jun 2018<br>
+**Responsibilities**: Manage external project collaborations. Train and guide members to participate in the Chinese Collegiate Computing Competition.
 
 Skills
 ======
-* **Software Quality Assurance & Intelligent Code Analysis**: Experienced in software defect prediction, defect severity classification, and vulnerability detection. Familiar with code understanding and generation tasks, including commit classification, code clone detection, patch identification, and code summarization. Knowledgeable in static program analysis methods and common tools.
-* **Machine Learning & Large Language Model Applications**: Proficient in classical **Machine Learning (ML)** methods (LR, GBDT, MLP), **Deep Learning (DL)** architectures (TextCNN, LSTM, Transformer), and **Pre-Trained Models (PTMs)** (BERT, BART, T5), with expertise in optimization strategies such as feature engineering, model ensemble, hyperparameter tuning, feature extraction, and interpretability analysis. Experienced in applying and fine-tuning **Large Language Models (LLMs)** (Llama, DeepSeek, etc.) using LoRA techniques based on <em>Llama-Factory</em> and <em>vLLM</em>.
-* **Data Analysis & Modeling**: Skilled in **data processing and visualization** with Python (NumPy, Pandas, SciPy, Matplotlib). Experienced in **model training, fine-tuning, and evaluation** using frameworks such as Scikit-learn, PyTorch, and Transformers. Proficient in **statistical significance testing and effect size analysis**.
+* **Software Quality Assurance & Intelligent Code Analysis**: Experienced in software defect prediction, bug severity prediction, and vulnerability detection. Familiar with code understanding and generation tasks, including commit classification, code clone detection, patch identification, and code summarization. Knowledgeable in static program analysis methods and common tools.
+* **Machine Learning & Large Language Model Applications**: Proficient in classical **Machine Learning (ML)** methods (LR, GBDT, MLP), **Deep Learning (DL)** architectures (TextCNN, LSTM, Transformer), and **Pre-Trained Models (PTMs)** (BERT, BART, T5), with expertise in optimization strategies such as feature engineering, model ensemble, hyperparameter tuning, feature extraction, and interpretability analysis. Experienced in applying and fine-tuning **Large Language Models (LLMs)** (Llama, DeepSeek, etc.) using **LoRA** techniques based on <em>Llama-Factory</em> and <em>vLLM</em>.
+* **Data Analysis & Modeling**: Skilled in **data processing and visualization** with Python (NumPy, Pandas, SciPy, Matplotlib). Experienced in **model training, fine-tuning, and evaluation** using frameworks such as Transformers, PyTorch, and Scikit-learn. Proficient in **statistical significance testing and effect size analysis**.
 * **Testing & System Operations**: Knowledgeable in software testing, databases, and networking. Familiar with tools such as **Pytest and Wireshark** for code and network issue analysis. Proficient in Windows and Linux systems, with basic familiarity with macOS. Capable of **independent hardware maintenance and troubleshooting**.
 * **Common Tools & Software**: Proficient in **Office and Acrobat** for documentation. Familiar with **text, image, and video processing software** (CorelDRAW, Photoshop, Premiere, Nero). Experienced in **3D modeling** (3ds Max) and **virtualization platforms** (VMware, WSL).
 
