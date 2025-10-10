@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science and Technology, [**ECUST**](https://www.ecust.edu.cn/en/), Sep 2023 - Jun 2026 (expected)
   * **GPA**: 3.55/4.0
-  * **Awards and Honors**: Third Prize in "HUAWEI Cup" The 20th China Post-Graduate Mathematical Contest in Modeling; Excellent Student Cadre、Social Work of ECUST
+  * **Awards and Honors**: Third Prize in "HUAWEI Cup" The 20th China Post-Graduate Mathematical Contest in Modeling; Excellent Student Cadre, Social Work of ECUST
 * M.S. in Computer Science and Technology, [**E**ast **C**hina **U**niversity of **S**cience and **T**echnology](https://www.ecust.edu.cn/en/), Sep 2021 - Jun 2023 
   * **GPA**: 3.44/4.0
   * **CET-6**: 539, proficient in reading and writing, good at listening and speaking 

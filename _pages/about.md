@@ -22,7 +22,7 @@ redirect_from:
 - **在审/修订中论文**：修订论文（CCF-B/SCI-Q2、CCF-B/SCI-Q4）2篇；在审论文（CCF-A/SCI-Q1、CCF-C/SCI-Q1、CCF-B/SCI-Q2）3篇。
 
 <strong>论文审稿</strong>：
-- **期刊**：ESWA[CCF-C/SCI-Q1]、[**E**mpirical **S**oftware **E**ngineering (ESE)](https://link.springer.com/journal/10664)[CCF-B/SCI-Q2]，[The **J**ournal of **S**ystems & **S**oftware (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[CCF-B/SCI-Q2]，[**S**cience of **C**omputer **P**rogramming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming)[CCF-B/SCI-Q4]、[Journal of **Co**mputer **La**nguages (COLA)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[SCI-Q4]
+- **期刊**：ESWA[CCF-C/SCI-Q1]，[**E**mpirical **S**oftware **E**ngineering (ESE)](https://link.springer.com/journal/10664)[CCF-B/SCI-Q2]，[The **J**ournal of **S**ystems & **S**oftware (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[CCF-B/SCI-Q2]，[**S**cience of **C**omputer **P**rogramming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming)[CCF-B/SCI-Q4]，[Journal of **Co**mputer **La**nguages (COLA)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[SCI-Q4]
 - **会议**：[**S**oftware **E**ngineering & **K**nowledge **E**ngineering (SEKE) 2023](https://ksiresearch.org/seke/seke23.html)、[2024](https://ksiresearch.org/seke/seke24.html)[CCF-C]，[CollaborateCom 2023](https://collaboratecom.eai-conferences.org/2023/)[CCF-C]
 
 科研进展
