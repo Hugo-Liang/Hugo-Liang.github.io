@@ -19,7 +19,7 @@ venue: 'Expert Systems'
 [//]: # (slidesurl: 'http://academicpages.github.io/files/slides2.pdf')
 paperurl: 'http://hugo-liang.github.io/files/2025-EXSY-SETCS.pdf'
 bibtexurl: 'http://hugo-liang.github.io/files/2025-EXSY-SETCS.bib'
-citation: '<strong>Yuguo Liang</strong>, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>, Mingchen Li, and Zijie Huang. 2025. Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation. Expert Systems, 42: e13835. <a href="https://doi.org/10.1111/exsy.13835">https://doi.org/10.1111/exsy.13835</a>. [CCF-C/SCI-Q4]
+citation: '<strong>Yuguo Liang</strong>, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>, Mingchen Li, and Zijie Huang. Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation. Expert Systems, 2025, 42: e13835. <a href="https://doi.org/10.1111/exsy.13835">https://doi.org/10.1111/exsy.13835</a>. [CCF-C/SCI-Q4]
 '
 ---
 
