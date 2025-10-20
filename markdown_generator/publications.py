@@ -91,7 +91,7 @@ for row, item in publications.iterrows():
         md += "\nbibtexurl: '" + item.bibtex_url + "'"
 
     # md += "\ncitation: '" + html_escape(item.citation) + "'"
-    
+    md += "\ncitation: '" + item.citation + "'"
     md += "\n---"
     
     ## Markdown description for individual page
