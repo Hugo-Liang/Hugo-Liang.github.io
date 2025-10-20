@@ -1,6 +1,7 @@
 ---
 title: "Usage patterns of software product metrics in assessing developers’ output: A comprehensive study"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2025-IST-developersOutputAssessment
 excerpt: '• We explore how developers can intentionally manipulate the LOC metric using LLMs, leading to significant anomalies that affect the fairness and effectiveness of developers’ output assessments.<br> • We provide a thorough evaluation of existing product metrics, with a particular focus on efficiency metrics and quality metrics from SATs, assessing their practicality and cost-effectiveness.<br> • We conduct a rapid review of quantitative metrics used in past developers’ output research to help the company select relevant software metrics, providing guidance for future quantitative assessments of developers’ output.<br> • We establish a connection between academic research on software product metrics and practical applications in the industry, demonstrating how academic insights can influence real-world developers’ output assessment practices.'
 date: 2025-10-17

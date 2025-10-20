@@ -75,7 +75,8 @@ for row, item in publications.iterrows():
     md = "---\ntitle: \""   + item.title + '"\n'
 
     # TODO Update to use the category assigned in the TSV file
-    md += """collection: manuscripts"""
+    md += """collection: publications"""
+    md += """\ncategory: manuscripts"""
     
     md += """\npermalink: /publication/""" + html_filename
     
@@ -92,7 +93,7 @@ for row, item in publications.iterrows():
 
     # md += "\ncitation: '" + html_escape(item.citation) + "'"
     md += "\ncitation: '" + item.citation + "'"
-    md += "\n---"
+    md += "\n---\n"
     
     ## Markdown description for individual page
     
