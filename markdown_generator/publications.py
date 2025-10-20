@@ -90,7 +90,7 @@ for row, item in publications.iterrows():
         md += "\npaperurl: '" + item.paper_url + "'"
         md += "\nbibtexurl: '" + item.bibtex_url + "'"
 
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
+    # md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
     
