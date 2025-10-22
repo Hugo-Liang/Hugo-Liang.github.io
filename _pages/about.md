@@ -45,13 +45,14 @@ redirect_from:
 
 <strong>小修论文</strong>：
 
-[CCF-B / SCI-Q4] | Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Longfei Zu, Huiqun Yu<sup>*</sup>, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming).
+[CCF-B / SCI-Q4] | Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong><sup>*</sup>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming).
 
-<strong>大修论文</strong>：
+[//]: # (<strong>大修论文</strong>：)
 
-[CCF-B / SCI-Q2] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Longfei Zu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. Deep Learning for Bug Severity Prediction: How Far Are We?. [CCF ChinaSoft 2025-FORGE](https://chinasoft.ccf.org.cn/#callforpaper/foundation-models-engineering)
 
 <strong>在审论文</strong>：
+
+[CCF-B / SCI-Q2] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Longfei Zu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. Deep Learning for Bug Severity Prediction: How Far Are We?. [CCF ChinaSoft 2025-FORGE](https://chinasoft.ccf.org.cn/#callforpaper/foundation-models-engineering)
 
 [CCF-A / SCI-Q1] | Wentao Chen<sup>†</sup>, <strong>Yuguo Liang<sup>†</sup></strong>, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, Zehong Zhang, Shulin Liu, Zijie Huang. Understanding Developers’ Metric Manipulation in Output Assessment: An Industry Experience Report. [TOSEM](https://dl.acm.org/journal/tosem)
 
