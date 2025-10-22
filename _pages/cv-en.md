@@ -13,13 +13,13 @@ Education
 ======
 * Ph.D in Computer Science and Technology, [**ECUST**](https://www.ecust.edu.cn/en/), Sep 2023 - Jun 2026 (expected)
   * **GPA**: 3.55/4.0
-  * **Awards and Honors**: Third Prize in "HUAWEI Cup" The 20th China Post-Graduate Mathematical Contest in Modeling; Excellent Student Cadre, Social Work of ECUST
+  * **Awards and Honors**: Third Prize in "HUAWEI Cup" The 20th China Post-Graduate Mathematical Contest in Modeling; Excellent Student Cadre and Social Work of ECUST
 * M.S. in Computer Science and Technology, [**E**ast **C**hina **U**niversity of **S**cience and **T**echnology](https://www.ecust.edu.cn/en/), Sep 2021 - Jun 2023 
   * **GPA**: 3.44/4.0
   * **CET-6**: 539, proficient in reading and writing, good at listening and speaking 
 * B.S. in Software Engineering, [**Z**heng**z**hou **U**niversity of **L**ight **I**ndustry](https://en.zzuli.edu.cn/), Sep 2015 - Jun 2019
   * **GPA**: 3.57/4.0
-  * **Awards and Honors**: National Motivational Scholarship, National Scholarship, First Prize for Band C in 2018 National English Competition for College Students; Merit Student of Henan Province, Excellent Graduate of Henan Province
+  * **Awards and Honors**: National Motivational Scholarship, National Scholarship, First Prize for Band C in 2018 National English Competition for College Students; Merit Student and Excellent Graduate of Henan Province
 
 Publications
 ======
