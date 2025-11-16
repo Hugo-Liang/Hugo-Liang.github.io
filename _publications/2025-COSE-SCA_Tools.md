@@ -2,7 +2,7 @@
 title: "Tool or Toy: Are SCA Tools Ready for Challenging Scenarios?"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-CS-SCA_Tools
+permalink: /publication/2025-COSE-SCA_Tools
 excerpt: '
 
     • This study proposes the first comprehensive evaluation model that integrates three core functions: dependency detection, vulnerability identification and license recognition. It covers multi-language ecosystems, source and binary forms and adversarial threats, addressing the limitations of previous research focused on single function or ecosystem.<br>
@@ -14,8 +14,8 @@ excerpt: '
 date: 2025-08-09
 venue: 'Computers & Security'
 
-paperurl: 'http://hugo-liang.github.io/files/2025-CS-SCA_Tools.pdf'
-bibtexurl: 'http://hugo-liang.github.io/files/2025-CS-SCA_Tools.bib'
+paperurl: 'http://hugo-liang.github.io/files/2025-COSE-SCA_Tools.pdf'
+bibtexurl: 'http://hugo-liang.github.io/files/2025-COSE-SCA_Tools.bib'
 citation: 'Congyan Shu, Wentao Chen, Zijie Huang, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>, Hengrun Zhang, <strong>Yuguo Liang</strong>. Tool or Toy: Are SCA Tools Ready for Challenging Scenarios? Computers & Security, 2025, 158: 104624. <a href="https://doi.org/10.1016/j.cose.2025.104624">https://doi.org/10.1016/j.cose.2025.104624</a>. [CCF-B/SCI-Q2]
 '
 ---
