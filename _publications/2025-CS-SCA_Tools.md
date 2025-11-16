@@ -16,7 +16,7 @@ venue: 'Computers & Security'
 
 paperurl: 'http://hugo-liang.github.io/files/2025-CS-SCA_Tools.pdf'
 bibtexurl: 'http://hugo-liang.github.io/files/2025-CS-SCA_Tools.bib'
-citation: 'Congyan Shu, Wentao Chen, Zijie Huang, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>, Hengrun Zhang, <strong>Yuguo Liang</strong>. Tool or Toy: Are SCA Tools Ready for Challenging Scenarios? Computers & Security, 2025, 158: 104624. <a herf="https://doi.org/10.1016/j.cose.2025.104624">https://doi.org/10.1016/j.cose.2025.104624</a>. [CCF-B/SCI-Q2]
+citation: 'Congyan Shu, Wentao Chen, Zijie Huang, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>, Hengrun Zhang, <strong>Yuguo Liang</strong>. Tool or Toy: Are SCA Tools Ready for Challenging Scenarios? Computers & Security, 2025, 158: 104624. <a href="https://doi.org/10.1016/j.cose.2025.104624">https://doi.org/10.1016/j.cose.2025.104624</a>. [CCF-B/SCI-Q2]
 '
 ---
  
