@@ -36,29 +36,28 @@ redirect_from:
 
 <strong>已录用论文</strong>：
 
-[CCF-C] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change. [CollaborateCom 2025](https://collaboratecom.eai-conferences.org/2025/).
+[CCF-C] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change. [CollaborateCom 2025](https://collaboratecom.eai-conferences.org/2025/final-program/).
 
-[CCF-C] | Yujie Ye, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Jianan Dong, Wentao Chen. JIT-Align: A Semantic Alignment-Based Ranking Framework for Just-In-Time Defect Prediction. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
+[CCF-C] | Yujie Ye, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Jianan Dong, Wentao Chen. JIT-Align: A Semantic Alignment-Based Ranking Framework for Just-In-Time Defect Prediction. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/preliminary-program/)
 
-[CCF-C] | Xiaotong Wang, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Wentao Chen and Jingyi Liu. License Compatibility Detection for OpenJavaWorks Open-Source Projects Based on Code Similarity. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
+[CCF-C] | Xiaotong Wang, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Wentao Chen and Jingyi Liu. License Compatibility Detection for OpenJavaWorks Open-Source Projects Based on Code Similarity. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/preliminary-program/)
 
-[CCF-C] | Jianan Dong, Guisheng Fan<sup>*</sup>, Yueming Yu, <strong>Yuguo Liang</strong>, Yujie Ye, Wentao Chen. VFProber: A Vulnerability-Fixing Identification Framework Based on Code Changes and Semantic Adjustment. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
+[CCF-C] | Jianan Dong, Guisheng Fan<sup>*</sup>, Yueming Yu, <strong>Yuguo Liang</strong>, Yujie Ye, Wentao Chen. VFProber: A Vulnerability-Fixing Identification Framework Based on Code Changes and Semantic Adjustment. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/preliminary-program/)
 
 
 [//]: # (<strong>小修论文</strong>：)
-
-[//]: # ([CCF-B / SCI-Q4] | Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong><sup>*</sup>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. [SCP]&#40;https://www.sciencedirect.com/journal/science-of-computer-programming&#41;.)
 
 [//]: # (<strong>大修论文</strong>：)
 
 
 <strong>在审论文</strong>：
 
-[//]: # ([CCF-B / SCI-Q2] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Longfei Zu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. Deep Learning for Bug Severity Prediction: How Far Are We?. [CCF ChinaSoft 2025-FORGE]&#40;https://chinasoft.ccf.org.cn/#callforpaper/foundation-models-engineering&#41;)
+[CCF-C / SCI-Q1] | <strong>Yuguo Liang</strong>, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>, Wentao Chen, Zijie Huang, Chengcheng Wu. An Extensive Study on Pre-Trained Models for Just-in-Time Defect Prediction. [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 
-[CCF-A / SCI-Q1] | Wentao Chen<sup>†</sup>, <strong>Yuguo Liang<sup>†</sup></strong>, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, Zehong Zhang, Shulin Liu, Zijie Huang. Understanding Developers’ Metric Manipulation in Output Assessment: An Industry Experience Report. [TOSEM](https://dl.acm.org/journal/tosem)
+[CCF-B / SCI-Q2] | <strong>Yuguo Liang</strong>, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>, Chengcheng Wu, Longfei Zu, Wentao Chen. Deep Learning for Bug Severity Prediction: How Far Are We?. [IST](https://www.sciencedirect.com/journal/information-and-software-technology)
 
-[CCF-C / SCI-Q1] | <strong>Yuguo Liang</strong>, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>, Wentao Chen, Zijie Huang, Chengcheng Wu. An Extensive Study on Pre-Trained Models for Just-in-Time Defect Prediction. [ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+[CCF-A / SCI-Q1] | Wentao Chen<sup>†</sup>, <strong>Yuguo Liang<sup>†</sup></strong>, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, Zehong Zhang, Shulin Liu, Zijie Huang. Understanding Developers’ Metric Manipulation in Output Assessment: An Industry Experience Report. [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+
 
 奖励和荣誉
 ======
