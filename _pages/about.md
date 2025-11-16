@@ -18,8 +18,10 @@ redirect_from:
 <strong>科研项目</strong>：作为核心成员参与国家级及省部级科研项目3项，包括国家自然科学基金（面上项目、重大项目）和上海市自然科学基金
 
 <strong>科研成果</strong>：
-- **已发表/录用论文**：在[**E**xpert **S**ystems **w**ith **A**pplications (ESWA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)、[**C**omputers & **S**ecurity (C&S)](https://www.sciencedirect.com/journal/computers-and-security)、[**Ex**pert **Sy**stems (EXSY)](https://onlinelibrary.wiley.com/journal/14680394)；[**Comp**uters, **S**oftware, and **A**pplications **C**onference (COMPSAC)](https://ieeecompsac.computer.org/2025/)、[**Collaborat**iv**e** **Com**puting: Networking, Applications and Worksharing (CollaborateCom)](https://collaboratecom.eai-conferences.org/2025/)等国际期刊和会议上发表论文7篇。包括CCF-B论文1篇、CCF-C论文6篇（其中SCI Q1一篇、Q2一篇、Q4一篇）。
-- **在审/修订中论文**：修订论文（CCF-B/SCI-Q2、CCF-B/SCI-Q4）2篇；在审论文（CCF-A/SCI-Q1、CCF-C/SCI-Q1、CCF-B/SCI-Q2）3篇。
+- **已发表/录用论文**：在[**E**xpert **S**ystems **w**ith **A**pplications (ESWA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)、[**C**omputers & **S**ecurity (COSE)](https://www.sciencedirect.com/journal/computers-and-security)、[**I**nformation and **S**oftware **T**echnology (IST)](https://www.sciencedirect.com/journal/information-and-software-technology)、[**S**cience of **C**omputer **P**rogramming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming)、[**Ex**pert **Sy**stems (EXSY)](https://onlinelibrary.wiley.com/journal/14680394)；[**Comp**uters, **S**oftware, and **A**pplications **C**onference (COMPSAC)](https://ieeecompsac.computer.org/2025/)、[**Collaborat**iv**e** **Com**puting: Networking, Applications and Worksharing (CollaborateCom)](https://collaboratecom.eai-conferences.org/2025/)等国际期刊和会议上发表论文9篇。包括CCF-B论文3篇、CCF-C论文6篇（其中SCI Q1一篇、Q2两篇、Q4两篇）。
+- **在审/修订中论文**：在审论文（CCF-A/SCI-Q1、CCF-C/SCI-Q1、CCF-B/SCI-Q2）3篇。
+
+[//]: # (修订论文（CCF-B/SCI-Q2、CCF-B/SCI-Q4）2篇；)
 
 <strong>论文审稿</strong>：
 - **期刊**：ESWA[CCF-C/SCI-Q1]，[**E**mpirical **S**oftware **E**ngineering (ESE)](https://link.springer.com/journal/10664)[CCF-B/SCI-Q2]，[The **J**ournal of **S**ystems & **S**oftware (JSS)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[CCF-B/SCI-Q2]，[**S**cience of **C**omputer **P**rogramming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming)[CCF-B/SCI-Q4]，[Journal of **Co**mputer **La**nguages (COLA)](https://www.sciencedirect.com/journal/journal-of-systems-and-software)[SCI-Q4]
@@ -40,19 +42,19 @@ redirect_from:
 
 [CCF-C] | Xiaotong Wang, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Wentao Chen and Jingyi Liu. License Compatibility Detection for OpenJavaWorks Open-Source Projects Based on Code Similarity. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
 
-[CCF-C] | Jianan Dong, Guisheng Fan<sup>*</sup>, Yueming Yu, <strong>Yuguo Liang</strong>, Yujie Ye,  Wentao Chen. VFProber: A Vulnerability-Fixing Identification Framework Based on Code Changes and Semantic Adjustment. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
+[CCF-C] | Jianan Dong, Guisheng Fan<sup>*</sup>, Yueming Yu, <strong>Yuguo Liang</strong>, Yujie Ye, Wentao Chen. VFProber: A Vulnerability-Fixing Identification Framework Based on Code Changes and Semantic Adjustment. [COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
 
 
-<strong>小修论文</strong>：
+[//]: # (<strong>小修论文</strong>：)
 
-[CCF-B / SCI-Q4] | Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong><sup>*</sup>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming).
+[//]: # ([CCF-B / SCI-Q4] | Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong><sup>*</sup>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. [SCP]&#40;https://www.sciencedirect.com/journal/science-of-computer-programming&#41;.)
 
 [//]: # (<strong>大修论文</strong>：)
 
 
 <strong>在审论文</strong>：
 
-[CCF-B / SCI-Q2] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Longfei Zu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. Deep Learning for Bug Severity Prediction: How Far Are We?. [CCF ChinaSoft 2025-FORGE](https://chinasoft.ccf.org.cn/#callforpaper/foundation-models-engineering)
+[//]: # ([CCF-B / SCI-Q2] | <strong>Yuguo Liang</strong>, Chengcheng Wu, Longfei Zu, Wentao Chen, Guisheng Fan<sup>*</sup>, Huiqun Yu<sup>*</sup>. Deep Learning for Bug Severity Prediction: How Far Are We?. [CCF ChinaSoft 2025-FORGE]&#40;https://chinasoft.ccf.org.cn/#callforpaper/foundation-models-engineering&#41;)
 
 [CCF-A / SCI-Q1] | Wentao Chen<sup>†</sup>, <strong>Yuguo Liang<sup>†</sup></strong>, Huiqun Yu<sup>*</sup>, Guisheng Fan<sup>*</sup>, Zehong Zhang, Shulin Liu, Zijie Huang. Understanding Developers’ Metric Manipulation in Output Assessment: An Industry Experience Report. [TOSEM](https://dl.acm.org/journal/tosem)
 
