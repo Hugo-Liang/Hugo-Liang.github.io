@@ -16,7 +16,7 @@ venue: 'Science of Computer Programming'
 
 paperurl: 'http://hugo-liang.github.io/files/2025-SCP-CAN.pdf'
 bibtexurl: 'http://hugo-liang.github.io/files/2025-SCP-CAN.bib'
-citation: 'Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong><sup>*</sup>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. Science of Computer Programming, 2025, 249: 103410. <a href="https://doi.org/10.1016/j.eswa.2023.121640">https://doi.org/10.1016/j.scico.2025.103410</a>. [CCF-B/SCI-Q4]
+citation: 'Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong><sup>*</sup>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. Science of Computer Programming, 2025, 249: 103410. <a href="https://doi.org/10.1016/j.scico.2025.103410">https://doi.org/10.1016/j.scico.2025.103410</a>. [CCF-B/SCI-Q4]
 '
 ---
 
