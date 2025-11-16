@@ -11,12 +11,12 @@ excerpt: '
 
     • We employ LIME to analyze feature importance in the CAN model’s correct predictions. Experimental results show that words such as ``line`` and ``py`` play a significant role in classifying intrinsic bugs, while terms like ``test`` and ``api`` strongly influence the classification of extrinsic bugs.
 '
-date: 2025-08-16
+date: 2025-11-05
+venue: 'Science of Computer Programming'
 
-[//]: # (venue: 'Science of Computer Programming')
-[//]: # (slidesurl: 'http://academicpages.github.io/files/slides2.pdf')
-paperurl: 'http://hugo-liang.github.io/files/paper1.pdf'
-citation: 'Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong>, Longfei Zu, Huiqun Yu<sup>*</sup>, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. Science of Computer Programming 2025. [CCF-B][大修返回]
+paperurl: 'http://hugo-liang.github.io/files/2025-SCP-CAN.pdf'
+bibtexurl: 'http://hugo-liang.github.io/files/2025-SCP-CAN.bib'
+citation: 'Guisheng Fan<sup>*</sup>, <strong>Yuguo Liang</strong><sup>*</sup>, Longfei Zu, Huiqun Yu, Zijie Huang, Wentao Chen. Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction. Science of Computer Programming, 2025, 249: 103410. <a href="https://doi.org/10.1016/j.eswa.2023.121640">https://doi.org/10.1016/j.scico.2025.103410</a>. [CCF-B/SCI-Q4]
 '
 ---
 

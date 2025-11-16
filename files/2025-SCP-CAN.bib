@@ -1,0 +1,13 @@
+@article{CAN,
+title = {Automatic identification of extrinsic bug reports for just-in-time bug prediction},
+journal = {Science of Computer Programming},
+volume = {249},
+pages = {103410},
+year = {2026},
+issn = {0167-6423},
+doi = {https://doi.org/10.1016/j.scico.2025.103410},
+url = {https://www.sciencedirect.com/science/article/pii/S0167642325001492},
+author = {Guisheng Fan and Yuguo Liang and Longfei Zu and Huiqun Yu and Zijie Huang and Wentao Chen},
+keywords = {Bug report, Extrinsic bugs, Just-in-time bug prediction, Explainable artificial intelligence},
+abstract = {In software development, developers create bug reports within an Issue Tracking System (ITS) to describe the cause, symptoms, severity, and other technical details of bugs. The ITS includes reports of both intrinsic bugs (i.e., those originating within the software itself) and extrinsic bugs (i.e., those arising from third-party dependencies). Although extrinsic bugs are not recorded in the Version Control System (VCS), they can still affect Just-In-Time (JIT) bug prediction models that rely on VCS-derived information. Previous research has shown that excluding extrinsic bugs can significantly improve JIT bug prediction model’s performance. However, manually classifying intrinsic and extrinsic bugs is time-consuming and prone to errors. To address this issue, we propose a CAN model that integrates the local feature extraction capability of TextCNN with the nonlinear approximation advantage of the Kolmogorov-Arnold Network (KAN). Experiments on 1880 labeled data samples from the OpenStack project demonstrate that the CAN model outperforms benchmark models such as BERT and CodeBERT, achieving an accuracy of 0.7492 and an F1-score of 0.8072. By comparing datasets with and without source code, we find that incorporating source code information enhances model performance. Finally, using the Local Interpretable Model-agnostic Explanations (LIME), an explainable artificial intelligence technique, we identify that keywords such as “test” and “api” in bug reports significantly contribute to the prediction of extrinsic bugs.}
+}
